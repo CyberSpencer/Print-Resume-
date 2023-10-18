@@ -47,7 +47,7 @@
 <ul>
     <li><a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">LinkedIn Profile</a></li>
     <li><a href="https://github.com/CyberSpencer">GitHub Profile</a></li>
-    <li>Email: spencertsales@gmail.com</li>
+    <li>Email: <a href="mailto:spencertsales@gmail.com">spencertsales@gmail.com</a></li>
 </ul>
 
 <p>Feel free to explore the code, and I hope you find this interactive resume a creative way to present professional information!</p>
