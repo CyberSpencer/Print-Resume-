@@ -1,3 +1,13 @@
+# Print(Resume).py
+# Author: Spencer Thomson
+# Date: 10/23/2023
+# Description: A Python script to create my own interactive resume.
+#              The script offers a menu-driven interface for the user to view various
+#              sections of my resume like; contact info, objective, certifications,
+#              skills, work experience, and education. Each section is further
+#              organized for easy readability and navigation.
+
+
 class Resume:
     def __init__(self):
         self.contact_info = (
@@ -42,7 +52,7 @@ class Resume:
             "Snow Trainer Class of 2016, Queenstown, New Zealand": {},
             "Wilderness First Responder (WFR)": {
                 "Certifications": [
-                    "Including CPR certifications for youth to adults."
+                    "CPR certifications for youth to adults."
                 ]
             },
             "Avalanche Certifications": {
