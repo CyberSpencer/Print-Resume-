@@ -8,7 +8,7 @@
 
 <h1>Print(Resume)</h1>
 
-<p>Welcome to the <code>Print(Resume)</code> repository! This project showcases an interactive resume created using Python. The goal is to provide a unique, interactive way for potential employers or others to explore my professional background.</p>
+<p>Welcome to the <code>Print(Resume)</code> repository! This project showcases my resume in a simple menu formant, created using Python. The goal is to provide a unique, interactive way for potential employers or others to explore my professional background.</p>
 
 <h2>Getting Started</h2>
 
@@ -22,9 +22,7 @@
     <li>Clone this repository to your local machine.</li>
     <li>Navigate to the directory containing <code>resume.py</code>.</li>
     <li>Run the script by executing the following command in your terminal:
-        <code>
-            <pre>python resume.py</pre>
-        </code>
+        <code> <pre>python resume.py</pre> </code>
     </li>
     <li>Follow the on-screen prompts to navigate through different sections of the resume.</li>
 </ol>
